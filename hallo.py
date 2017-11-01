@@ -17,7 +17,10 @@ dit is via mijn computer
 
 
 jajajjaa
+<<<<<<< HEAD
 
+=======
+>>>>>>> c7a8f04a8feb00813dcfe3a82cb05f19eded1dee
 
 
 
